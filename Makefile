@@ -1,7 +1,7 @@
 GIT_SERVER 	:= github.com
-ORG			:= Benbentwo
-REPO        := go-bin-generic
-BINARY 		:= bb
+ORG			:= Benbentwo-Sandbox
+REPO        := BeatSaverDownloader
+BINARY 		:= bsd
 
 # Pretty Constant stuff Below, Configurable above
 
